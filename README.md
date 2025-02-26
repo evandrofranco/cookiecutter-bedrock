@@ -16,8 +16,8 @@ Cookiecutter is a CLI tool (Command Line Interface) to create an application boi
 pip install cookiecutter
 ```
 
-### How can I generate a FastAPI project?
+### How can I generate a project?
 
 ```bash
-cookiecutter gh:arthurhenrique/cookiecutter-fastapi
+cookiecutter gh:evandrofranco/cookiecutter-bedrock
 ```
